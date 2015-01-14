@@ -26,3 +26,11 @@ Worst:
 
 It would help if you have admins who have not installed/configured nginx before. It can also speed up the installs on multiple machines
 by running the script over ssh.
+
+Installation instructions:
+
+Run the install script in the directory containing the fires from the git repository on the machine where you want the program installed.
+
+./install-nginx.pl
+
+and the program will do the rest.
