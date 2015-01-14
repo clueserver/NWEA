@@ -34,3 +34,5 @@ Run the install script in the directory containing the fires from the git reposi
 ./install-nginx.pl
 
 and the program will do the rest.
+
+NOTE: This program must be run as root or suid.
